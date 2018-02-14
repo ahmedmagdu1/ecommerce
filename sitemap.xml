@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" 
+  xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" >
+  <url> 
+    <loc>http://www.adsesta.com/index.php</loc> 
+    <image:image>
+       <image:loc>http://www.adsesta.com/layout/images/logo.png</image:loc>
+       <image:caption>Adsesta.com | Buy Or Sell Anything Anywhere</image:caption>
+    </image:image>
+      <lastmod>2017-06-16</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>1</priority>
+   </url>
+      <url> 
+    <loc>http://www.adsesta.com/login.php</loc> 
+      <lastmod>2017-06-16</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>.9</priority>
+   </url>
+      <url> 
+    <loc>http://www.adsesta.com/registry.php</loc> 
+      <lastmod>2017-06-16</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>.9</priority>
+   </url>
+   <url> 
+    <loc>http://www.adsesta.com/categories.php?pageid=9&amp;pagename=Electronics</loc> 
+    <image:image>
+       <image:loc>http://adsesta.com/layout/images/adsesta.com.jpg</image:loc>
+       <image:caption>Adsesta.com | Electronics</image:caption>
+    </image:image>
+      <lastmod>2017-06-16</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>.8</priority>
+   </url>
+   <url> 
+    <loc>http://www.adsesta.com/categories.php?pageid=10&amp;pagename=Home-&amp;-Kitchine</loc> 
+    <image:image>
+       <image:loc>http://adsesta.com/layout/images/adsesta.com.jpg</image:loc>
+       <image:caption>Adsesta.com | Home &amp; Kitchine</image:caption>
+    </image:image>
+      <lastmod>2017-06-16</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>.8</priority>
+   </url>
+   <url> 
+    <loc>http://www.adsesta.com/categories.php?pageid=13&amp;pagename=Real-Estate</loc> 
+    <image:image>
+       <image:loc>http://adsesta.com/layout/images/adsesta.com.jpg</image:loc>
+       <image:caption>Adsesta.com | Real Estate</image:caption>
+    </image:image>
+      <lastmod>2017-06-16</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>.8</priority>
+   </url>
+   <url> 
+    <loc>http://www.adsesta.com/categories.php?pageid=14&amp;pagename=Sports</loc> 
+    <image:image>
+       <image:loc>http://adsesta.com/layout/images/adsesta.com.jpg</image:loc>
+       <image:caption>Adsesta.com | Sports</image:caption>
+    </image:image>
+      <lastmod>2017-06-16</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>.8</priority>
+   </url>
+   <url> 
+    <loc>http://www.adsesta.com/categories.php?pageid=23&amp;pagename=Motors</loc> 
+    <image:image>
+       <image:loc>http://adsesta.com/layout/images/adsesta.com.jpg</image:loc>
+       <image:caption>Adsesta.com | Motors</image:caption>
+    </image:image>
+      <lastmod>2017-06-16</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>.8</priority>
+   </url>
+   <url> 
+    <loc>http://www.adsesta.com/categories.php?pageid=25&amp;pagename=Jobs</loc> 
+    <image:image>
+       <image:loc>http://adsesta.com/layout/images/adsesta.com.jpg</image:loc>
+       <image:caption>Adsesta.com | Jobs</image:caption>
+    </image:image>
+      <lastmod>2017-06-16</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>.8</priority>
+   </url>
+   <url> 
+    <loc>http://www.adsesta.com/categories.php?pageid=26&amp;pagename=Clothes</loc> 
+    <image:image>
+       <image:loc>http://adsesta.com/layout/images/adsesta.com.jpg</image:loc>
+       <image:caption>Adsesta.com | Clothes</image:caption>
+    </image:image>
+      <lastmod>2017-06-16</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>.8</priority>
+   </url>
+   <url> 
+    <loc>http://www.adsesta.com/categories.php?pageid=27&amp;pagename=Services</loc> 
+    <image:image>
+       <image:loc>http://adsesta.com/layout/images/adsesta.com.jpg</image:loc>
+       <image:caption>Adsesta.com | Services</image:caption>
+    </image:image>
+      <lastmod>2017-06-16</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>.8</priority>
+   </url>
+   <url> 
+    <loc>http://www.adsesta.com/about-adsesta.php</loc> 
+      <lastmod>2017-06-16</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>.6</priority>
+   </url>
+   <url> 
+    <loc>http://www.adsesta.com/terms-&amp;-condetion.php</loc> 
+      <lastmod>2017-06-16</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>.6</priority>
+   </url>
+   <url> 
+    <loc>http://www.adsesta.com/privacy-policy.php</loc> 
+      <lastmod>2017-06-16</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>.6</priority>
+   </url>
+   <url> 
+    <loc>http://www.adsesta.com/faq.php</loc> 
+      <lastmod>2017-06-16</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>.6</priority>
+   </url>
+   <url> 
+    <loc>http://www.adsesta.com/site-map.php</loc> 
+      <lastmod>2017-06-16</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>.6</priority>
+   </url>
+
+</urlset> 
